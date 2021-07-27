@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Nice to meet you! Here, please have some personal trinkets:
+Thanks for stopping by! Here, please have some personal trinkets:
 
 - 😄 Pronouns: He/him
 - 🔭 I’m currently working on my summer pasta recipe.
