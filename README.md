@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to meet you! Here, please have some personal trinkets:
+
+- 😄 Pronouns: He/him
+- 🔭 I’m currently working on my summer pasta recipe.
+- 🌱 I’m currently learning about what's good in a summer pasta.
+- 👯 I’m looking to collaborate on products that serve the queer community (including summer pasta recipes).
+- ⚡ Fun fact: I spent one (1) holiday season as (probably) the world's shortest Geoffrey the Giraffe.
