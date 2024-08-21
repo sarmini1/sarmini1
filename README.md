@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Thanks for stopping by! Here, please have some personal trinkets:
 
 - 😄 Pronouns: He/him
-- 🔭 I’m currently working on a medication and lab tracker to improve medication adherence and lab timeliness.
+- 🔭 I’m currently working on an app to improve medication adherence and lab timeliness using a RESTful API and React Native.
 - 👯 I’m looking to collaborate on products that serve the queer community.
 - ⚡ Fun fact: I spent one (1) holiday season as (probably) the world's shortest Geoffrey the Giraffe.
